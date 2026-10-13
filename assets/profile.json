@@ -1,0 +1,18 @@
+{
+  "_comment": "本文件保存每次实验都相同的个人信息与排版选项；每次实验只改 meta.json 或命令行参数。",
+  "_anonymized": "公开版：已清空姓名/学号/组号/教师/默认地点等个人信息；使用前请在下方填回，或在命令行用 --reporter --student-id --group --teacher --location 传入。",
+  "course": "大学物理实验（2）",
+  "college": "物理与光电工程学院",
+  "teacher": "",
+  "reporter": "",
+  "student_id": "",
+  "group": "",
+  "location": "",
+  "formatting": {
+    "body_pt": 10.5,
+    "caption_pt": 9.0,
+    "table_pt": 9.0,
+    "line_spacing": 1.5,
+    "first_line_chars": 2
+  }
+}
